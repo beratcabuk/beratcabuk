@@ -1,5 +1,5 @@
 -  Berat Cabuk.
--  Msc in AI @BocconiUniversity.
+-  Msc in AI @UniBocconi.
 
 <!---
 beratcabuk/beratcabuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
